@@ -7,6 +7,12 @@
 		(legacy_teardrops no)
 	)
 	(paper "A4")
+	(title_block
+		(title "Optokoppler Tester")
+		(date "2025-07-20")
+		(rev "v1.0")
+		(company "André Fiedler <mail@andrefiedler.de>")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
